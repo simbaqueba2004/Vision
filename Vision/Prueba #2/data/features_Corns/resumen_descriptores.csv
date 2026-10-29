@@ -1,0 +1,5 @@
+﻿Descriptor,Archivo,Muestras entrenamiento,Muestras prueba,Dimensiones,Número de clases
+HOG,features_hog.npz,2779,1409,8100,4
+LBP,features_lbp.npz,2779,1409,10,4
+GLCM,features_glcm.npz,2779,1409,48,4
+FUSIÓN (HOG+LBP+GLCM),features_fusión_hog_lbp_glcm.npz,2779,1409,8158,4
